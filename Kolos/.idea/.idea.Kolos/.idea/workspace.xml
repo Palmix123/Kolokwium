@@ -9,7 +9,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5663d91-06f6-4cb5-b321-6d9ca0485779" name="Changes" comment="" />
+    <list default="true" id="b5663d91-06f6-4cb5-b321-6d9ca0485779" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Kolos/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Kolos/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Kolos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Kolos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolos/Controllers/APIController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kolos/Controllers/BookController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolos/Models/APIModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kolos/Models/BookDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolos/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kolos/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolos/Repositories/APIRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kolos/Repositories/BookRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolos/Repositories/IAPIRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kolos/Repositories/IBookRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolos/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Kolos/appsettings.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,10 +27,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2gGwK8KmqjHJ0LgUBOHvJfgehYU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Launch Settings Profile.Kolos: http.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -103,6 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715337157171</updated>
       <workItem from="1715337158613" duration="601000" />
+      <workItem from="1715342480802" duration="3424000" />
     </task>
     <servers />
   </component>

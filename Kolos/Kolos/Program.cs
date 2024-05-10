@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
-builder.Services.AddScoped<IAPIRepository, APIRepository>(); 
+builder.Services.AddScoped<IBookRepository, BookRepository>(); 
 
 var app = builder.Build();
 
